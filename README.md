@@ -1,5 +1,9 @@
 # 데옹의 연습장
 
+## Tools
+- SpringBoot
+- Java 17
+
 ## Rule
 1. Issues에 task 등록
 2. Issues에 맞는 branch 생성 후 진행 상황 표시
